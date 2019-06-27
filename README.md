@@ -1,0 +1,2 @@
+# Filling-of-NaN-values-in-a-dataset-with-their-suitable-values-using-machine-learning-algorithm
+Given dataset contains NaN values in all of its columns. I have used the following machine learning algorithms to replace NaN values with suitable values>> Linear Regression >> Random Forest. I have filled NaN values of the column with the lowest NaN values first and so on to maximize the accuracy of the code. Suggestions are welcomed.
